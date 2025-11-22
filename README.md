@@ -29,6 +29,30 @@ This repository contains my Data Structures and Algorithms assignments organized
   Files included:  
   `question1.cpp, question2.cpp, question3.cpp, question4.cpp`
 
+- **Assignment 6:**  
+  Contains the sixth set of assignment questions.  
+  Files included:  
+  `Question1.cpp, Question2.cpp, Question3.cpp, Question4.cpp, Question5.cpp`
+
+- **Assignment 7:**  
+  Contains the seventh set of assignment questions.  
+  Files included:  
+  `Question1.cpp, Question2.cpp`
+
+- **Assignment 8:**  
+  Contains the eight set of assignment questions.  
+  Files included:  
+  `question1.cpp, question2.cpp, question3.cpp, question4.cpp, question5.cpp, question6.cpp`
+
+- **Assignment 9:**  
+  Contains the ninth set of assignment questions.  
+  Files included:  
+  `question1.cpp`
+
+- **Assignment 10:**  
+  Contains the tenth set of assignment questions.  
+  Files included:  
+  `ques1.cpp, ques2.cpp, ques3.cpp, ques4.cpp, ques5.cpp, ques6.cpp`
 ## Notes
 
 - Each assignment folder contains the respective source code files for that assignment.
